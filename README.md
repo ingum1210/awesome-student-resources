@@ -4,6 +4,20 @@ A curated collection of **free resources, tools, courses, software, and perks av
 
 Inspired by the goal of making education accessible and helping students grow without financial barriers.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Maintainer-Shashwat-lightblue?style=for-the-badge" />
+  <img src="https://awesome.re/badge-flat.svg" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Category-Student%20Resources-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Format-Markdown-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Collection-Free%20Tools-yellow?style=flat-square" />
+</p>
+
 ---
 
 ## 📌 Categories  
