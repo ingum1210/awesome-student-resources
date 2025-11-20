@@ -6,16 +6,17 @@ Inspired by the goal of making education accessible and helping students grow wi
 
 ---
 
-## 📌 Categories
+## 📌 Categories  
+Click on any category to jump directly to that section:
 
-* [Cloud Services](categories/cloud.md)
-* [Developer Tools](categories/devtools.md)
-* [Design Tools](categories/design.md)
-* [Courses & Certifications](categories/courses.md)
-* [Productivity Tools](categories/productivity.md)
-* [Security Tools](categories/security.md)
-* [AI Tools](categories/ai.md)
-* [Misc Perks](categories/misc.md)
+- [☁️ Cloud Services](#️-cloud-services)
+- [🛠 Developer Tools](#-developer-tools)
+- [🎨 Design Tools](#-design-tools)
+- [🎓 Courses & Certifications](#-courses--certifications)
+- [📚 Productivity Tools](#-productivity-tools)
+- [🔐 Security Tools](#-security-tools)
+- [🤖 AI Tools](#-ai-tools)
+- [🌐 Misc Perks](#-misc-student-perks)
 
 ---
 
