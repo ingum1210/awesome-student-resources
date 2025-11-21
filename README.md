@@ -1,6 +1,6 @@
 # 🎓 Awesome Student Resources
 
-A curated collection of **free resources, tools, courses, software, and perks available exclusively for students** — especially those with a student ID or college email.
+A curated collection of **free resources, tools, courses, software, and perks available exclusively for students** especially those with a student ID or college email.
 
 Inspired by the goal of making education accessible and helping students grow without financial barriers.
 
@@ -58,12 +58,14 @@ Click on any category to jump directly to that section:
 
 ---
 
-## 🎨 Design Tools
-
-| Tool                       | Benefits                        | Link                                                                 |
-| -------------------------- | ------------------------------- | -------------------------------------------------------------------- |
-| **Figma Education Plan**   | Unlimited files & collaborators | [https://www.figma.com/education/](https://www.figma.com/education/) |
-| **Canva Pro for Students** | Free via eligible institutions  | [https://www.canva.com/education/](https://www.canva.com/education/) |
+## 🎨 Design Tools  
+| Tool | Benefits | Link |
+|------|----------|------|
+| **Canva Pro (Education)** | Free premium plan for students with college email verification | https://www.canva.com/education/ |
+| **Figma Education Plan** | Unlimited files, editors, and teams for students | https://www.figma.com/education/ |
+| **Autodesk Education Access** | Free 3D, CAD, architecture & engineering tools | https://www.autodesk.com/education/edu-software/overview |
+| **Sketch for Education** | Free full version for UI design with student verification | https://www.sketch.com/education/ |
+| **Framer for Students** | Free Pro access for building websites, portfolios & prototypes | https://www.framer.com/education/ |
 
 ---
 
