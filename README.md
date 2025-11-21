@@ -36,14 +36,16 @@ Click on any category to jump directly to that section:
 
 # 🎁 Popular Free Resources for Students
 
-## ☁️ Cloud Services
+## ☁️ Cloud Services  
 
-| Service                           | Benefits                                     | Link                                                                                         |
-| --------------------------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| **GitHub Student Developer Pack** | 100+ tools, cloud credits, domains, IDEs     | [https://education.github.com/pack](https://education.github.com/pack)                       |
-| **Microsoft Azure for Students**  | $100 credit + free student-tier services     | [https://azure.microsoft.com/free/students](https://azure.microsoft.com/free/students)       |
-| **DigitalOcean Student Credits**  | $200 credits via GitHub Student Pack         | [https://www.digitalocean.com/github-students](https://www.digitalocean.com/github-students) |
-| **Google Cloud Platform (GCP)**   | Free credits via Qwiklabs & student programs | [https://www.cloudskillsboost.google](https://www.cloudskillsboost.google)                   |
+| Service            | Benefits                                              | Link |
+|--------------------|--------------------------------------------------------|------|
+| **Google Cloud**   | Free credits (varies), always-free tier, Qwiklabs access | https://cloud.google.com/free |
+| **Microsoft Azure for Students** | $100/year credits + 55+ always-free services | https://azure.microsoft.com/free/students |
+| **AWS Educate / AWS Student Credits** | $200 credits + 30+ always-free services | https://aws.amazon.com/education/awseducate/ |
+| **IBM Cloud**      | $200 first 30 days + 40+ always-free services (Watson, ML APIs) | https://www.ibm.com/cloud/free |
+| **Oracle Cloud**   | $300 free trial + powerful always-free VMs | https://www.oracle.com/cloud/free/ |
+| **GitHub Student Developer Pack** | Partner cloud credits (DigitalOcean, Heroku, MongoDB Atlas) | https://education.github.com/pack |
 
 ---
 
