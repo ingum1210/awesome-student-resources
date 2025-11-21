@@ -49,15 +49,23 @@ Click on any category to jump directly to that section:
 
 ---
 
-## 🛠 Developer Tools
+## 🛠 Developer Tools  
 
-| Tool                          | Benefits                                | Link                                                                                                               |
-| ----------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **JetBrains Student License** | Free access to all JetBrains IDEs       | [https://www.jetbrains.com/community/education/#students](https://www.jetbrains.com/community/education/#students) |
-| **Replit Hacker Plan**        | Free via GitHub Student Pack            | [https://replit.com/site/github-students](https://replit.com/site/github-students)                                 |
-| **Notion Personal Pro**       | Pro plan free for students              | [https://www.notion.so/product/notion-for-education](https://www.notion.so/product/notion-for-education)           |
-| **Sentry**                    | Free error tracking & performance tools | [https://sentry.io/for/github-students](https://sentry.io/for/github-students)                                     |
-
+| Tool                          | Benefits                                                                                     | Link |
+|------------------------------|----------------------------------------------------------------------------------------------|------|
+| **JetBrains Student License** | Free full access to all JetBrains IDEs (IntelliJ, PyCharm, WebStorm & more) during studies | https://www.jetbrains.com/community/education/#students |
+| **Replit Hacker Plan**        | Free Hacker Plan via GitHub Student Pack for online coding, hosting & collaboration        | https://replit.com/site/github-students |
+| **Notion Personal Pro**       | Free Pro plan with unlimited file uploads, advanced workspace features                     | https://www.notion.so/product/notion-for-education |
+| **Sentry**                    | Free error/performance monitoring as part of GitHub Student Pack                            | https://sentry.io/for/github-students |
+| **GitHub Pro**                | Free GitHub Pro with private repos, advanced repo insights, and tools                       | https://education.github.com/pack |
+| **DigitalOcean Credits**      | $100 in cloud credits for deployments via GitHub Pack                                      | https://www.digitalocean.com/hatch/ |
+| **Heroku Credits**            | Free platform credits for hosting & deploying apps through GitHub Student Pack             | https://www.heroku.com/github-students |
+| **MongoDB Atlas Credits**     | $50 in credits + free shared cluster tier for cloud databases                               | https://www.mongodb.com/students |
+| **Microsoft Azure for Students** | $100 credit + free developer tools and access to Visual Studio, GitHub Codespaces         | https://azure.microsoft.com/en-in/free/students/ |
+| **GitKraken**                 | Free Git client + issue board included in GitHub Student Pack                               | https://www.gitkraken.com/ |
+| **Overleaf Premium**          | Free premium LaTeX editor for research papers & collaborative documents                    | https://www.overleaf.com/edu |
+| **Android Studio**            | Free official IDE for Android development                                                   | https://developer.android.com/studio |
+| **Blender**                   | Free open-source 3D modeling & animation suite                                              | https://www.blender.org/ |
 ---
 
 ## 🎨 Design Tools  
