@@ -50,7 +50,12 @@ Jump directly to any section:
 | **Microsoft Azure for Students** | $100/year credits + 55+ always-free services | https://azure.microsoft.com/free/students |
 | **Oracle Cloud**   | $300 free trial + powerful always-free VMs | https://www.oracle.com/cloud/free/ |
 
-[⬆ Back to Top](#-categories)
+
+<div align="left">
+  <a href="#-categories">
+    <img src="https://img.shields.io/badge/⬆-Back_to_Top-blue?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</div>
 
 ---
 
@@ -72,7 +77,11 @@ Jump directly to any section:
 | **Replit Hacker Plan**        | Hacker Plan via GitHub Student Pack for online coding, hosting & collaboration        | https://replit.com/site/github-students |
 | **Sentry**                    | Error/performance monitoring as part of GitHub Student Pack                            | https://sentry.io/for/github-students |
 
-[⬆ Back to Top](#-categories)
+<div align="left">
+  <a href="#-categories">
+    <img src="https://img.shields.io/badge/⬆-Back_to_Top-blue?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</div>
 
 ---
 
@@ -86,7 +95,11 @@ Jump directly to any section:
 | **Framer for Students** | Pro access for building websites, portfolios & prototypes | https://www.framer.com/education/ |
 | **Sketch for Education** | Full version for UI design with student verification | https://www.sketch.com/education/ |
 
-[⬆ Back to Top](#-categories)
+<div align="left">
+  <a href="#-categories">
+    <img src="https://img.shields.io/badge/⬆-Back_to_Top-blue?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</div>
 
 ---
 
@@ -104,7 +117,11 @@ Jump directly to any section:
 | **Udacity** | Tech courses ranging from beginner to advanced levels with video lessons and exercises | https://www.udacity.com |
 | **Udemy Free Courses**  | Daily rotating selection of courses across tech, business, and creative topics | https://www.udemy.com/courses/free |
 
-[⬆ Back to Top](#-categories)
+<div align="left">
+  <a href="#-categories">
+    <img src="https://img.shields.io/badge/⬆-Back_to_Top-blue?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</div>
 
 ---
 
@@ -116,7 +133,11 @@ Jump directly to any section:
 | **Notion Pro**           | Pro plan for students with unlimited file uploads and advanced workspace features | https://www.notion.so/product/notion-for-education |
 | **Todoist Premium**      | Premium via GitHub Student Pack        | https://education.github.com/pack |
 
-[⬆ Back to Top](#-categories)
+<div align="left">
+  <a href="#-categories">
+    <img src="https://img.shields.io/badge/⬆-Back_to_Top-blue?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</div>
 
 ---
 
@@ -126,7 +147,11 @@ Jump directly to any section:
 | ------------- | ----------------- | ------------------------------------------------------------------ |
 | **1Password** | Password manager for students | https://1password.com/education |
 
-[⬆ Back to Top](#-categories)
+<div align="left">
+  <a href="#-categories">
+    <img src="https://img.shields.io/badge/⬆-Back_to_Top-blue?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</div>
 
 ---
 
@@ -137,7 +162,11 @@ Jump directly to any section:
 | **HuggingFace**             | GPU hours through education programs | https://huggingface.co |
 | **OpenAI Student Programs** | Credits in some regions (availability varies) | https://openai.com |
 
-[⬆ Back to Top](#-categories)
+<div align="left">
+  <a href="#-categories">
+    <img src="https://img.shields.io/badge/⬆-Back_to_Top-blue?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</div>
 
 ---
 
@@ -149,7 +178,11 @@ Jump directly to any section:
 | **Apple Music Student**     | https://www.apple.com/apple-music/ (check your region for student pricing) |
 | **Spotify Premium Student** | https://www.spotify.com/us/student/ |
 
-[⬆ Back to Top](#-categories)
+<div align="left">
+  <a href="#-categories">
+    <img src="https://img.shields.io/badge/⬆-Back_to_Top-blue?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</div>
 
 ---
 
