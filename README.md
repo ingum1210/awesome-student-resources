@@ -79,15 +79,20 @@ Click on any category to jump directly to that section:
 
 ---
 
-## 🎓 Courses & Learning
+## Courses & Learning Platforms for Students
 
-| Platform                | Benefits                                  | Link                                                                     |
-| ----------------------- | ----------------------------------------- | ------------------------------------------------------------------------ |
-| **Coursera for Campus** | Free paid courses through your university | [https://www.coursera.org/campus](https://www.coursera.org/campus)       |
-| **Microsoft Learn**     | Free learning paths + voucher programs    | [https://learn.microsoft.com](https://learn.microsoft.com)               |
-| **Udemy Free Courses**  | Daily rotating free courses               | [https://www.udemy.com/courses/free](https://www.udemy.com/courses/free) |
+| Platform                | Benefits                                                  | Link                                                                                           |
+|------------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| **Coursera for Campus** | Free access to thousands of paid courses through your university, including certificates and job-relevant learning[1][2] | [coursera.org/campus](https://www.coursera.org/campus)                                         |
+| **Microsoft Learn**     | Free interactive learning paths, labs, and certification vouchers in Microsoft technologies such as Azure, Microsoft 365, Power Platform. No credit card required for student benefits[3][4] | [learn.microsoft.com](https://learn.microsoft.com)                                             |
+| **Udemy Free Courses**  | Daily rotating selection of free courses across tech, business, and creative topics; some paid courses may be discounted for students[5][6] | [udemy.com/courses/free](https://www.udemy.com/courses/free)                                  |
+| **Swayam**              | Indian government platform offering free courses from top Indian universities with certification options[7]        | [swayam.gov.in](https://swayam.gov.in)                                                        |
+| **OpenLearn**           | Free courses (close to 1000) from The Open University covering many domains with flexible start dates[8]             | [open.edu/openlearn](https://www.open.edu/openlearn/free-courses)                              |
+| **Udacity Free Courses**| Hundreds of tech courses ranging from beginner to advanced levels with video lessons and exercises[9]              | [udacity.com](https://www.udacity.com)                                                        |
+| **edX Free Courses**    | Free enrollment to courses from top global universities with option to purchase professional certificates[9]         | [edx.org](https://www.edx.org)                                                                |
+| **FutureLearn**         | Free access to short duration courses with options to get certificates for a fee[9]                                  | [futurelearn.com](https://www.futurelearn.com)                                                |
+| **Great Learning Academy** | Free beginner courses with certificates across data science, cloud computing, and business analytics[9]              | [greatlearning.in](https://www.greatlearning.in/academy)                                      |
 
----
 
 ## 📚 Productivity
 
