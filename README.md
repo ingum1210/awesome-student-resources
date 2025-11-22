@@ -1,7 +1,7 @@
 # 🎓 Awesome Student Resources
 
 <div align="center">
-  <img src="banner.png" alt="Awesome Student Resources Banner" width="100%">
+  <img src="Banner.png" alt="Awesome Student Resources Banner" width="100%">
   <br>
 </div>
 
