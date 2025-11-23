@@ -125,13 +125,17 @@ Jump directly to any section:
 
 ---
 
-## 📚 Productivity Tools
+## 📚 Productivity Tools for Students
 
-| Tool                     | Benefits                               | Link                                                                                                     |
-| ------------------------ | -------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| **Namecheap .me Domain** | .me domain for student portfolios via GitHub Student Pack | https://education.github.com/pack |
-| **Notion Pro**           | Pro plan for students with unlimited file uploads and advanced workspace features | https://www.notion.so/product/notion-for-education |
-| **Todoist Premium**      | Premium via GitHub Student Pack        | https://education.github.com/pack |
+| Tool                     | Benefits                                                                 | Link |
+|--------------------------|--------------------------------------------------------------------------|------|
+| **Namecheap .me Domain** | Free or discounted .me domain for portfolios and personal websites via GitHub Pack | https://education.github.com/pack |
+| **Notion Pro**           | Free Personal Pro plan with unlimited uploads and advanced workspace tools | https://www.notion.so/product/notion-for-education |
+| **Todoist Premium**      | Premium task management via GitHub Student Pack                              | https://education.github.com/pack |
+| **Slack**                | Free upgrade for student teams for communication & collaboration              | https://education.github.com/pack |
+| **Trello**               | Free premium boards for workflow & project organization via GitHub Pack       | https://education.github.com/pack |
+| **Asana**                | Free trial for team productivity and project tracking                         | https://asana.com |
+
 
 <div align="left">
   <a href="#-categories">
