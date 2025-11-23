@@ -183,13 +183,18 @@ Jump directly to any section:
 
 ---
 
-## 🌐 Misc Student Perks
+## 🌐 Misc Student Perks: Streaming & Entertainment
 
-| Perk                        | Link                                                                                       |
-| --------------------------- | ------------------------------------------------------------------------------------------ |
-| **Amazon Prime Student**    | https://www.amazon.in/prime/student |
-| **Apple Music Student**     | https://www.apple.com/apple-music/ (check your region for student pricing) |
-| **Spotify Premium Student** | https://www.spotify.com/us/student/ |
+| Perk                        | Benefits                                                                                           | Link |
+|-----------------------------|----------------------------------------------------------------------------------------------------|------|
+| **Amazon Prime Student**    | 6-month free trial, then ~50% off; includes Prime Video, Music, and shopping perks                | https://www.amazon.in/prime/student |
+| **Apple Music Student**     | ~40–50% off; includes Apple TV+ access (region-specific)                                           | https://www.apple.com/apple-music/ |
+| **Spotify Premium Student** | ~60–68% off; often bundled with Hulu (US only)                                                     | https://www.spotify.com/us/student/ |
+| **Hulu Student Plan**       | Ad-supported plan for $1.99/month (via student verification or Spotify bundle)                    | https://www.hulu.com/student |
+| **Peacock Premium**         | 60% off student plan (~$2.99/month)                                                               | https://www.peacocktv.com |
+| **YouTube Premium Student** | Discounted plan (~$8/month) with ad-free YouTube + YouTube Music                                 | https://www.youtube.com/premium/student |
+| **Paramount+ Student**      | Up to 50% off with SheerID verification                                                           | https://www.paramountplus.com |
+
 
 <div align="left">
   <a href="#-categories">
