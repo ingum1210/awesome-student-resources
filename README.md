@@ -145,11 +145,17 @@ Jump directly to any section:
 
 ---
 
-## 🔐 Security Tools
+## 🔐 Security Tools for Students
 
-| Tool          | Benefits          | Link                                                               |
-| ------------- | ----------------- | ------------------------------------------------------------------ |
-| **1Password** | Password manager for students | https://1password.com/education |
+| Tool                     | Benefits                                                                                      | Link |
+|--------------------------|-----------------------------------------------------------------------------------------------|------|
+| **1Password**            | Free or discounted password manager for students to securely store and generate passwords     | https://1password.com/education |
+| **Snyk**                 | Free vulnerability scanning for open-source dependencies and container images                 | https://snyk.io |
+| **Tinfoil Security**     | Website vulnerability scanning to identify security issues in student web apps                | https://www.tinfoilsecurity.com |
+| **GitGuardian**          | Free API key and secret scanning to prevent credential leaks in repositories                   | https://www.gitguardian.com |
+| **Detectify**            | Automated web security scanner for analyzing and securing student projects                     | https://detectify.com |
+| **Dependabot (GitHub)**  | Automated dependency updates and security alerts integrated directly in GitHub                | https://github.com/features/security-dependabot |
+
 
 <div align="left">
   <a href="#-categories">
