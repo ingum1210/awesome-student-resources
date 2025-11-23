@@ -165,12 +165,15 @@ Jump directly to any section:
 
 ---
 
-## 🤖 AI Tools
+## 🤖 AI Tools for Students
 
-| Tool                        | Benefits                                  | Link                                             |
-| --------------------------- | ----------------------------------------- | ------------------------------------------------ |
-| **HuggingFace**             | GPU hours through education programs | https://huggingface.co |
-| **OpenAI Student Programs** | Credits in some regions (availability varies) | https://openai.com |
+| Tool                        | Benefits                                                                                      | Link |
+|-----------------------------|-----------------------------------------------------------------------------------------------|------|
+| **HuggingFace**             | Free GPU hours and access to advanced ML models for experimentation and research             | https://huggingface.co |
+| **OpenAI Student Programs** | Free or discounted API credits (region-based) for GPT, DALL·E, Whisper, and more             | https://openai.com |
+| **Deepnote**                | Free team plan for students with unlimited projects and collaborative data science features  | https://deepnote.com |
+| **Camber**                  | AI-powered scientific computing with free CPU hours, storage, and LLM credits for students   | https://camber.cloud |
+
 
 <div align="left">
   <a href="#-categories">
