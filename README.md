@@ -5,7 +5,7 @@
   <br>
 </div>
 
----
+
 A curated collection of **free resources, tools, courses, software, and perks available exclusively for students** — especially those with a student ID or college email.
 
 Built to make education accessible and help students grow without financial barriers.
