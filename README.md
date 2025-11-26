@@ -15,7 +15,6 @@ Built to make education accessible and help students grow without financial barr
   <img src="https://img.shields.io/badge/Contributions-Welcome-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Maintainer-Shashwat-lightblue?style=for-the-badge" />
-  <img src="https://awesome.re/badge-flat.svg" />
 </p>
 
 <p align="center">
